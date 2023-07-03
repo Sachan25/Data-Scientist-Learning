@@ -22,8 +22,8 @@ The goal of this level is to get you familiar with the ML universe. You will lea
            - File Handling - https://www.youtube.com/watch?v=ixEeeNjjOJ0 (Done)
            - Exception Handling - https://www.youtube.com/watch?v=NIWwJbo-9_8 (Done)
            - Regular Expressions - https://www.youtube.com/watch?v=K8L6KVGG-7o (Done)
-           - Functional Programming - https://www.youtube.com/watch?v=SvK_GErE2nM (running)
-           - Basics of Flask - https://www.youtube.com/watch?v=swHI1H7DVsQ
+           - Functional Programming - https://www.youtube.com/watch?v=SvK_GErE2nM (Done)
+           - Basics of Flask - https://www.youtube.com/watch?v=swHI1H7DVsQ (running)
         4. Practice Problems - https://docs.google.com/document/d/1E_xCNijOWZ4Bm7r7DVj-1OA-oUopEFmv4tRm0YNuFWQ/edit?usp=sharing
 
 2. #### Learn Numpy (Est. time 3 Days)
