@@ -27,7 +27,7 @@ The goal of this level is to get you familiar with the ML universe. You will lea
         4. Practice Problems - https://docs.google.com/document/d/1E_xCNijOWZ4Bm7r7DVj-1OA-oUopEFmv4tRm0YNuFWQ/edit?usp=sharing (running)
 
 2. #### Learn Numpy (Est. time 3 Days)
-        1. Numpy Playlist - https://www.youtube.com/watch?v=CpPLLp3snK4&list=PLKnIA16_Rmvb-ToL3RQ_bwxG4_ND-0-DT
+        1. Numpy Playlist - https://www.youtube.com/watch?v=CpPLLp3snK4&list=PLKnIA16_Rmvb-ToL3RQ_bwxG4_ND-0-DT (running)
         2. Numpy Practice Problems - https://github.com/rougier/numpy-100
 
 3. #### Learn Pandas (Est. time 4 Days)
