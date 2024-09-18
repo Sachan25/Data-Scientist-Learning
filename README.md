@@ -24,14 +24,14 @@ The goal of this level is to get you familiar with the ML universe. You will lea
            - Regular Expressions - https://www.youtube.com/watch?v=K8L6KVGG-7o (Done)
            - Functional Programming - https://www.youtube.com/watch?v=SvK_GErE2nM (Done)
            - Basics of Flask - https://www.youtube.com/watch?v=swHI1H7DVsQ (done)
-        4. Practice Problems - https://docs.google.com/document/d/1E_xCNijOWZ4Bm7r7DVj-1OA-oUopEFmv4tRm0YNuFWQ/edit?usp=sharing (running)
+        4. Practice Problems - https://docs.google.com/document/d/1E_xCNijOWZ4Bm7r7DVj-1OA-oUopEFmv4tRm0YNuFWQ/edit?usp=sharing (Done)
 
 2. #### Learn Numpy (Est. time 3 Days)
-        1. Numpy Playlist - https://www.youtube.com/watch?v=CpPLLp3snK4&list=PLKnIA16_Rmvb-ToL3RQ_bwxG4_ND-0-DT (running)
+        1. Numpy Playlist - https://www.youtube.com/watch?v=CpPLLp3snK4&list=PLKnIA16_Rmvb-ToL3RQ_bwxG4_ND-0-DT (Done)
         2. Numpy Practice Problems - https://github.com/rougier/numpy-100
 
 3. #### Learn Pandas (Est. time 4 Days)
-        1. Pandas Playlist - https://www.youtube.com/watch?v=kq9Vmg5d7Sk&list=PLKnIA16_RmvbR85fgbfVRKOiMokUKVupy
+        1. Pandas Playlist - https://www.youtube.com/watch?v=kq9Vmg5d7Sk&list=PLKnIA16_RmvbR85fgbfVRKOiMokUKVupy(Done)
         2. Pandas Problems - https://github.com/ajcr/100-pandas-puzzles
 
 4. #### Learn Data Visualization (Est. time 1 Week)
@@ -45,7 +45,7 @@ The goal of this level is to get you familiar with the ML universe. You will lea
         1. Playlist - https://www.youtube.com/watch?v=ZhacwtUR0SU&list=PLKnIA16_RmvZAqJzKstVHywcRNMn6pcGD
 
 7. #### Learn Exploratory Data Analysis (EDA) (Est. time 1 Week)
-       1. Understanding your data - https://www.youtube.com/watch?v=mJlRTUuVr04
+       1. Understanding your data - https://www.youtube.com/watch?v=mJlRTUuVr04(Done)
        2. Univariate Analysis - https://www.youtube.com/watch?v=4HyTlbHUKSw
        3. Bivariate and Multivariate Analysis - https://www.youtube.com/watch?v=6D3VtEfCw7w
        4. Pandas Profiling - https://www.youtube.com/watch?v=E69Lg2ZgOxg
