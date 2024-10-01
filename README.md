@@ -67,8 +67,8 @@ The goal of this level is to get you familiar with the ML universe. You will lea
         3. Types of Machine Learning - https://www.youtube.com/watch?v=81ymPYEtFOw
         4. Batch Machine Learning - https://www.youtube.com/watch?v=nPrhFxEuTYU
         5. Online Machine Learning - https://www.youtube.com/watch?v=3oOipgCbLIk
-      **6. Instance based vs Model based learning - https://www.youtube.com/watch?v=ntAOq1ioTKo**
-      **7. Challenges in Machine Learning - https://www.youtube.com/watch?v=WGUNAJki2S4**
+        6. Instance based vs Model based learning - https://www.youtube.com/watch?v=ntAOq1ioTKo(Do)
+        7. Challenges in Machine Learning - https://www.youtube.com/watch?v=WGUNAJki2S4(Do)
         8. Applications of Machine Learning - https://www.youtube.com/watch?v=UZio8TcTMrI
         9. Machine Learning Development Lifecycle - https://www.youtube.com/watch?v=iDbhQGz_rEo
         10. Data Engineer V Data Analyst V Data Scientist V ML Engineer - https://www.youtube.com/watch?v=93rKZs0MkgU
@@ -87,11 +87,11 @@ The goal of this level is to learn the core machine learning concepts and algori
         1. What are Tensors? - https://www.youtube.com/watch?v=vVhD2EyS41Y
 2. #### Advance Statistics
         1. Covariance
-       **2. Pearson Correlation Coefficient**
+        2. Pearson Correlation Coefficient(Do)
         3. QQ Plot
         4. Confidence Interval
         5. Hypothesis Testing
-       **6. Chisquare Test, Anova Test**
+        6. Chisquare Test, Anova Test(Do)
         7. Playlist link - https://www.youtube.com/watch?v=qtaqvPAeEJY&list=PLKnIA16_Rmvbe9wDJGXc28KKr6lp5Jn2g 
 3. #### Probability Basics
         1. Conditional Probability
@@ -116,27 +116,27 @@ The goal of this level is to learn the core machine learning concepts and algori
         2. Maxima and Minima
         3. Playlist link - (first 4 videos only) https://www.youtube.com/playlist?list=PLBE9407EA64E2C318
 9. #### Machine Learning Algorithms
-      **1. Linear Regression - https://www.youtube.com/watch?v=UZPfbG0jNec&list=PLKnIA16_Rmva-wY_HBh1gTH32ocu2SoTr**
+        1. Linear Regression - https://www.youtube.com/watch?v=UZPfbG0jNec&list=PLKnIA16_Rmva-wY_HBh1gTH32ocu2SoTr(Do)
         2. Gradient Descent - https://www.youtube.com/watch?v=ORyfPJypKuU&list=PLKnIA16_RmvZvBbJex7T84XYRmor3IPK1
         3. Logistic Regression - https://www.youtube.com/watch?v=XNXzVfItWGY&list=PLKnIA16_Rmvb-ZTsM1QS-tlwmlkeGSnru
-       **4. Support Vector Machines - https://www.youtube.com/watch?v=ugTxMLjLS8M&list=PLKnIA16_RmvbOIFee-ra7U6jR2oIbCZBL**
+        4. Support Vector Machines - https://www.youtube.com/watch?v=ugTxMLjLS8M&list=PLKnIA16_RmvbOIFee-ra7U6jR2oIbCZBL(Do)
         5. Naive Bayes - https://www.youtube.com/watch?v=Ty7knppVo9E&list=PLKnIA16_RmvZ67wQaHoBuzXaDAfPz-a6l
         6. K Nearest Neighbors - https://www.youtube.com/watch?v=BYaoDZM1IcU&list=PLKnIA16_RmvZiE-lEdN5RDi18-u-T43zd
-       **7. Decision Trees - https://www.youtube.com/watch?v=gwgmSSTdiXs&list=PLKnIA16_RmvYGY_n9PP8zN-0LG9MoZRjU
-        8. Random Forest - https://www.youtube.com/watch?v=bHK1fE_BUms&list=PLKnIA16_RmvZyqP3WGUo7iVziIIea_1bp
-        9. Bagging - https://www.youtube.com/watch?v=LUiBOAy7x6Y&list=PLKnIA16_RmvZ7iKIcJrLjUoFDEeSejRpn
-        10. Adaboost - https://www.youtube.com/watch?v=sFKnP0iP0K0&list=PLKnIA16_RmvZxriy68dPZhorB8LXP1PY6
-        11. Gradient Boosting - https://www.youtube.com/watch?v=fbKz7N92mhQ&list=PLKnIA16_RmvaMPgWfHnN4MXl3qQ1597Jw
-        12. Xgboost - https://www.youtube.com/watch?v=BTLB-ppqBZc&list=PLKnIA16_RmvbXJbBW4zCy4Xbr81GRyaC4**
+        7. Decision Trees - https://www.youtube.com/watch?v=gwgmSSTdiXs&list=PLKnIA16_RmvYGY_n9PP8zN-0LG9MoZRjU(Do)
+        8. Random Forest - https://www.youtube.com/watch?v=bHK1fE_BUms&list=PLKnIA16_RmvZyqP3WGUo7iVziIIea_1bp(Do)
+        9. Bagging - https://www.youtube.com/watch?v=LUiBOAy7x6Y&list=PLKnIA16_RmvZ7iKIcJrLjUoFDEeSejRpn(Do)
+        10. Adaboost - https://www.youtube.com/watch?v=sFKnP0iP0K0&list=PLKnIA16_RmvZxriy68dPZhorB8LXP1PY6(Do)
+        11. Gradient Boosting - https://www.youtube.com/watch?v=fbKz7N92mhQ&list=PLKnIA16_RmvaMPgWfHnN4MXl3qQ1597Jw(Do)
+        12. Xgboost - https://www.youtube.com/watch?v=BTLB-ppqBZc&list=PLKnIA16_RmvbXJbBW4zCy4Xbr81GRyaC4(Do)
         13. Principle Component Analysis (PCA) - https://www.youtube.com/watch?v=ToGuhynu-No&list=PLKnIA16_RmvYHW62E_lGQa0EFsph2NquD
         14. KMeans Clustering - https://www.youtube.com/watch?v=5shTLzwAdEc&list=PLKnIA16_RmvbA_hYXlRgdCg9bn8ZQK2z9
         15. Heirarchical Clustering - https://www.youtube.com/watch?v=Ka5i9TVUT-E
         16. DBSCAN - https://www.youtube.com/watch?v=RDZUdRSDOok
         17. T-sne - https://www.youtube.com/watch?v=NEaUSP4YerM and https://distill.pub/2016/misread-tsne/
-10. #### Machine Learning Metrics - https://www.youtube.com/watch?v=Ti7c-Hz7GSM&list=PLKnIA16_RmvZJGOqRjqhOhTEmQW3vDdbQ
-**11. #### Bias Variance Tradeoff - https://www.youtube.com/watch?v=74DU02Fyrhk**
-**12. #### Regularization - https://www.youtube.com/watch?v=aEow1QoTLo0&list=PLKnIA16_RmvZuSEZ24Wlm13QpsfLlJBM4
-13. #### Cross-Validation - https://www.youtube.com/watch?v=S5NkE-xgx98**
+10. #### Machine Learning Metrics - https://www.youtube.com/watch?v=Ti7c-Hz7GSM&list=PLKnIA16_RmvZJGOqRjqhOhTEmQW3vDdbQ(Do)
+11. #### Bias Variance Tradeoff - https://www.youtube.com/watch?v=74DU02Fyrhk(Do)
+12. #### Regularization - https://www.youtube.com/watch?v=aEow1QoTLo0&list=PLKnIA16_RmvZuSEZ24Wlm13QpsfLlJBM4(Do)
+13. #### Cross-Validation - https://www.youtube.com/watch?v=S5NkE-xgx98(Do)
 
 ## 3. Learn Practical Concepts (Est. time 6-8 Weeks)
 
